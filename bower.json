@@ -1,0 +1,17 @@
+{
+  "name": "mySite",
+  "description": "il mio sito personale",
+  "main": "index.html",
+  "authors": [
+    "Riccardo Campani <riccardocampani96@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/RicCa96/mySite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
